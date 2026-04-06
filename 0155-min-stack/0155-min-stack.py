@@ -1,26 +1,35 @@
-class MinStack:
-    def __init__(self):
-        self.stk1 = []
-        self.stk2 = [inf]
+class MinStack {
+    private Deque<Integer> stk1 = new ArrayDeque<>();
+    private Deque<Integer> stk2 = new ArrayDeque<>();
 
-    def push(self, val: int) -> None:
-        self.stk1.append(val)
-        self.stk2.append(min(val, self.stk2[-1]))
+    public MinStack() {
+        stk2.push(Integer.MAX_VALUE);
+    }
 
-    def pop(self) -> None:
-        self.stk1.pop()
-        self.stk2.pop()
+    public void push(int val) {
+        stk1.push(val);
+        stk2.push(Math.min(val, stk2.peek()));
+    }
 
-    def top(self) -> int:
-        return self.stk1[-1]
+    public void pop() {
+        stk1.pop();
+        stk2.pop();
+    }
 
-    def getMin(self) -> int:
-        return self.stk2[-1]
+    public int top() {
+        return stk1.peek();
+    }
 
+    public int getMin() {
+        return stk2.peek();
+    }
+}
 
-# Your MinStack object will be instantiated and called as such:
-# obj = MinStack()
-# obj.push(val)
-# obj.pop()
-# param_3 = obj.top()
-# param_4 = obj.getMin()
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
