@@ -1,5 +1,5 @@
-class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:
+class Solution(object):
+    def longestConsecutive(self, nums):
         s = set(nums)
         ans = 0
         d = defaultdict(int)
@@ -11,3 +11,4 @@ class Solution:
             d[x] = d[y] + y - x
             ans = max(ans, d[x])
         return ans
+        
