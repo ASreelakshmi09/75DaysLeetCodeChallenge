@@ -1,12 +1,7 @@
-from collections import defaultdict
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        anagram_map=defaultdict(list)
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        d = defaultdict(list)
         for s in strs:
-            sorted_str="".join(sorted(s))
-            anagram_map[sorted_str].append(s)
-        return list(anagram_map.values())
+            k = ''.join(sorted(s))
+            d[k].append(s)
+        return list(d.values())
