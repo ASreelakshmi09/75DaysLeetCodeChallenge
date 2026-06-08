@@ -1,5 +1,4 @@
 class MedianFinder:
-
     def __init__(self):
         self.minq = []
         self.maxq = []
