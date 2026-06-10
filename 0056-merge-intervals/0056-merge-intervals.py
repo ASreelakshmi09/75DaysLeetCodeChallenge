@@ -11,4 +11,3 @@ class Solution:
                 ed = max(ed, e)
         ans.append([st, ed])
         return ans
-        
