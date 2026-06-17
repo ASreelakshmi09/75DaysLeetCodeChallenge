@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/process-string-with-special-operations-ii">3614. Process String with Special Operations II</a></h2><h3>Hard</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and the special characters: <code>&#39;*&#39;</code>, <code>&#39;#&#39;</code>, and <code>&#39;%&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/process-string-with-special-operations-ii/?envType=daily-question&envId=2026-06-17">3939. Process String with Special Operations II</a></h2><h3>Hard</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and the special characters: <code>&#39;*&#39;</code>, <code>&#39;#&#39;</code>, and <code>&#39;%&#39;</code>.</p>
 
 <p>You are also given an integer <code>k</code>.</p>
 
