@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0136-single-number](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Math
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0460-lfu-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0460-lfu-cache/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
