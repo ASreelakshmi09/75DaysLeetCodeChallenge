@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 <!---LeetCode Topics End-->
