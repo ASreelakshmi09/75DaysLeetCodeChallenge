@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Geometry
 | Problem Name | Difficulty |
