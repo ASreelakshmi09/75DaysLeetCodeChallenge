@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
+| [0136-single-number](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Math
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
+| [0136-single-number](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3530-maximum-profit-from-valid-topological-order-in-dag/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
