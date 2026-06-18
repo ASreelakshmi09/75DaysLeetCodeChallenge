@@ -35,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
