@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Math
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
