@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0460-lfu-cache/) | Hard |
 ## Linked List
@@ -65,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
