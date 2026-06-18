@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Math
 | Problem Name | Difficulty |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0460-lfu-cache/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
