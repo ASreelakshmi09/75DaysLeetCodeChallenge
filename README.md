@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0146-lru-cache/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0460-lfu-cache](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0460-lfu-cache/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ASreelakshmi09/75DaysLeetCodeChallenge/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
